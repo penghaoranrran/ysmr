@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>denglu.png</file>
+        <file>kaishi.png</file>
+        <file>yuanshi.png</file>
+        <file>caodi.png</file>
+        <file>lnl_1.png</file>
+        <file>lnl_2.png</file>
+        <file>lnl_3.png</file>
+        <file>lnl_4.png</file>
+        <file>qidian.png</file>
+        <file>shitou.png</file>
+        <file>zhongdian.png</file>
+        <file>tulu.png</file>
+    </qresource>
+</RCC>

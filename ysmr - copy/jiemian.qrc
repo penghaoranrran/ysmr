@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/jm">
+        <file>zhangai/caodi.png</file>
+        <file>zhangai/lnl_1.png</file>
+        <file>zhangai/lnl_2.png</file>
+        <file>zhangai/lnl_3.png</file>
+        <file>zhangai/lnl_4.png</file>
+        <file>zhangai/qidian.png</file>
+        <file>zhangai/shitou.png</file>
+        <file>zhangai/zhongdian.png</file>
+    </qresource>
+</RCC>
